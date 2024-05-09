@@ -47,6 +47,11 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThisAster&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <!--
 **ThisAster/ThisAster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
