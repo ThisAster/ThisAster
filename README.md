@@ -8,6 +8,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="TG Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=ThisAster&style=flat-square&color=blue" alt="Profile name"/>
 </div>
 
 ### Hi there 👋
