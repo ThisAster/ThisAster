@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/aQwvKKi4Lv3t63nZl9/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/aQwvKKi4Lv3t63nZl9/giphy.gif" width="100"/>
 </div>
 <div id="badges" style="display: flex; flex-direction: column; align-items: center;">
   <a href="your-VK-URL">
