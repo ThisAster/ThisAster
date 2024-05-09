@@ -16,8 +16,8 @@
   <div align="center">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNoOWt1YncwZTJ2bms4bDkyaW9kb3Ewa3V4ZjNsbTlvNzNpdHdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jAe22Ec5iICCk/giphy.gif" width="600" height="300"/>
   </div>
-### :woman_technologist: About Me :
 </div>
+### :woman_technologist: About Me :
 
 
 <!--
