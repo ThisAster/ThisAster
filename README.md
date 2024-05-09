@@ -4,7 +4,7 @@
     <a href="https://vk.com/prostoyaoval">
       <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
-    <a href="https://t.me/+Qd_f1AI1eOZiMjVi">
+    <a href="https://t.me/Freyte">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="TG Badge"/>
     </a>
   </div>
