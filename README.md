@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/aQwvKKi4Lv3t63nZl9/giphy.gif" width="300"/>
   <div id="badges" style="display: flex; flex-direction: column; align-items: center;">
-    <a href="your-VK-URL">
+    <a href="https://vk.com/prostoyaoval">
       <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
-    <a href="your-TG-URL">
+    <a href="https://t.me/+Qd_f1AI1eOZiMjVi">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="TG Badge"/>
     </a>
   </div>
