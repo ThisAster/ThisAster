@@ -22,6 +22,14 @@
 
 ### :man_technologist: About me :
 
+- :telescope: Я студент университета ИТМО, 3 курс.
+
+- :computer: Обучаюсь на факульте Информатика и вычислительная техника (ИВТ).
+
+- :eyes: Активно изучаю новые технологии и фреймоворки, готов совершенствоваться в команде.
+
+- :zap: В свободное время занимаюсь музыкой, изучаю иностранные языки.
+
 
 <!--
 **ThisAster/ThisAster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
