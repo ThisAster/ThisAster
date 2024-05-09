@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/raccoon-pedro-Dg4TxjYikCpiGd7tYs" width="100"/>
+  <img src="https://giphy.com/gifs/raccoon-pedro-Dg4TxjYikCpiGd7tYs.gif" width="100"/>
 </div>
 ### Hi there 👋
 
